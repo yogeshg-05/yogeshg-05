@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!+🚀;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve;Exploring+Technology+and+New+Possibilities;Learning%2C+Building%2C+and+Growing...)](https://git.io/typing-svg)
 # Hi 👋, I'm Yogesh Gate
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Data Science @ IIT Madras
@@ -30,6 +31,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.yogeshg05@gmail.com)
 ---
 
+
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -42,6 +45,10 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshg-05&layout=compact&theme=radical&hide=typescript" />
+
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
