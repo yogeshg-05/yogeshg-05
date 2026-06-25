@@ -2,7 +2,7 @@
 # Hi 👋, I'm Yogesh Gate
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Data Science @ IIT Madras
----
+
 
 ## 👨‍💻 About Me
 
@@ -22,14 +22,14 @@
 
 🌟 Solving real-world problems through technology and innovation
 
----
+
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshg07)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.yogeshg07?igsh=MTM2Nnk4eTN3M2V5eA==)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.yogeshg05@gmail.com)
----
+
 
 
 
@@ -61,7 +61,7 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-121011?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
----
+
 
 ## 📌 Featured Projects
 
@@ -71,12 +71,12 @@
 
 ### 🗳️ [Election Guide Assistant](https://github.com/yogeshg-05/Election-Guide-Assistant)
 
----
+
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogeshg-05&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
----
+<img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+
 
 ## ⚡ Expanding Learning
 
@@ -86,6 +86,5 @@
 - 📊 Data Science & Data Analytics
 - 🧠 Data Structures, Algorithms & Problem Solving
 - ☁️ Cloud Computing & Scalable System Design
----
 
 ⭐ Building scalable solutions, leading hackathon teams, and continuously improving technical skills.
