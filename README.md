@@ -8,6 +8,8 @@
 
 🎓 B.Tech in Computer Science & Engineering @ NMIET
 
+🎓BS in Data Science & Applications @ IIT Madras
+
 💻 Full-Stack Developer passionate about building scalable and impactful applications
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science
