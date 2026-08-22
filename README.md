@@ -4,7 +4,7 @@
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Data Science @ IIT Madras
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :
 
 🎓 B.Tech in Computer Science & Engineering @ NMIET
 
