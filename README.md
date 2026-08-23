@@ -24,7 +24,7 @@
 
 
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshg07)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.yogeshg07?igsh=MTM2Nnk4eTN3M2V5eA==)
@@ -63,7 +63,7 @@
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 
-## 📌 Featured Projects
+## 📌 Featured Projects :
 
 ### 🤖 [AI Life Personal OS](https://github.com/yogeshg-05/AI-Life-Personal-OS)
 
@@ -73,7 +73,7 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 
 <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
 
